@@ -21,7 +21,7 @@ Where all ratings are 1.
 # Comments
 Movielens-1M：
 
-d=50, L=5, T=3
+d=80, L=5, T=3
 
 merge_out_vu = self.ac_fc(torch.add(torch.matmul(out_v, self.CW00), out_h))
 
