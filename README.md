@@ -3,8 +3,11 @@ The code and data of SPECN.
 
 # Requirements
 Python  3
+
 PyTorch 1.10.2
+
 Numpy   1.18.1
+
 SciPy   1.5.4
 
 # Usage
