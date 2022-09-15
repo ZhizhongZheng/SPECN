@@ -11,7 +11,7 @@ Numpy   1.18.1
 SciPy   1.5.4
 
 # Usage
-run python train_caser.py
+run python train_specn.py
 
 # data
 user item rating
