@@ -38,4 +38,4 @@ The numbers of capsules will change when L changes, please read the code.
 
 # Acknowledgment
 
-This project is heavily built on Spotlight. Thanks Maciej Kula for his great work.
+This project is heavily built on [Spotlight](https://github.com/maciejkula/spotlight),[Jiaxi Tang](https://github.com/graytowne) and [Maciej Kula](https://github.com/maciejkula). Thanks!
