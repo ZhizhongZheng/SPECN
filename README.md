@@ -15,6 +15,7 @@ run python train_specn.py
 
 # data
 user item rating
+
 Where all ratings are 1.
 
 # Comments
